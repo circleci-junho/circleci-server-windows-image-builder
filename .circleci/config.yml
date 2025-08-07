@@ -12,6 +12,7 @@ filters: &filters
   branches:
     only: 
     - master
+    - connect-test
 
 
 library:
